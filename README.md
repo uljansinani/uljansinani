@@ -19,7 +19,7 @@
 <br></br>
 <span></span>
 
-## Recently migrated the workflow at [Github/USinani](https://github.com/USinani), check it out!
+## My workflow migrated at [Github/USinani](https://github.com/USinani), check it out!
 
 <a href="https://github.com/USinani">
   <img align="left" alt="📕 Main Repo" width="120px"
