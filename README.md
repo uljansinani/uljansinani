@@ -23,5 +23,5 @@
 
 <a href="https://github.com/USinani">
   <img align="left" alt="📕 Main Repo" width="120px"
- src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+ src="https://img.shields.io/github/followers/uljansinani?style=social" />
 </a>
