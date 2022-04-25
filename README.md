@@ -12,10 +12,6 @@
   <img align="left" alt="Uljan Sinani | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/show/1GRanG15w3RbVfUlqRrO8d">
-  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 
 <br></br>
 <span></span>
